@@ -1,0 +1,10 @@
+  639  touch my_hist_file
+  640  history 10 > my_file
+  641  #!/bin/bash -i
+  642  # лабораторная работа №1
+  643  touch my_hist_file
+  644  history 10 > my_file
+  645  #!/bin/bash -i
+  646  # лабораторная работа №1
+  647  touch my_hist_file
+  648  history 10 > my_hist_file
